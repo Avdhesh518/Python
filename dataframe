@@ -2,3 +2,11 @@ import pandas as pd
 animals = ["dog", "cat","tiger", "elephant"]
 df = pd.Series(animals)
 df
+In [1]:
+
+Output
+0         dog
+1         cat
+2       tiger
+3    elephant
+dtype: object
