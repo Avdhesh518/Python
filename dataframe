@@ -3,8 +3,6 @@ animals = ["dog", "cat","tiger", "elephant"]
 df = pd.Series(animals)
 df
 
-
-
 Output
 0         dog
 1         cat
