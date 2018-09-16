@@ -4,6 +4,8 @@ df = pd.Series(animals)
 df
 In [1]:
 
+
+
 Output
 0         dog
 1         cat
